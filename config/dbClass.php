@@ -1,9 +1,10 @@
 <?php class DB
 {
     private $db;
-    private $username = 'root';
-    private $password = 'root';
-    private $database = 'localhost';
+    private $username;
+    private $password;
+    private $database;
+    
     public function __construct()
     {
         try {
