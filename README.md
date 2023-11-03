@@ -1,6 +1,6 @@
 # sylviebiscuitsetcie.fr
 
-Bienvenue sur mon portfolio ! Ce projet est une vitrine de mes compétences en développement web. Il contient également mes projets externes. Vous pouvez voir le résultat ici : [site web](https://sylviebiscuitsetcie.fr/)
+Sylvie, Biscuits et cie est une petite pâtisserie artisanale située à Montréal en France. Le projet consistait à réaliser un site vitrine, du design à la programmation, permettant de présenter tous les produits. Vous pouvez voir le résultat ici : [site web](https://sylviebiscuitsetcie.fr/)
 
 
 ## Technologies utilisées
